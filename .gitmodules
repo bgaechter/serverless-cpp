@@ -1,0 +1,12 @@
+[submodule "code/lib/redox"]
+	path = code/lib/redox
+	url = https://github.com/hmartiro/redox.git
+[submodule "code/lib/cpp_redis"]
+	path = code/lib/cpp_redis
+	url = https://github.com/cpp-redis/cpp_redis.git
+[submodule "code/lib/aws-lambda-cpp"]
+	path = code/lib/aws-lambda-cpp
+	url = https://github.com/awslabs/aws-lambda-cpp.git
+[submodule "code/lib/aws-sdk-cpp"]
+	path = code/lib/aws-sdk-cpp
+	url = https://github.com/aws/aws-sdk-cpp.git
